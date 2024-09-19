@@ -2,6 +2,8 @@
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <?xml-stylesheet type="text/xsl" href="foaf.xsl"?>
+
     <foaf:Person rdf:about="#vricardo" xmlns:foaf="http://xmlns.com/foaf/0.1/">
         <foaf:name>Valentin RICARDO</foaf:name>
         <foaf:homepage rdf:resource="https://valmort17.github.io/Valmort17/" />
