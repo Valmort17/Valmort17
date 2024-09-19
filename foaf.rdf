@@ -10,5 +10,16 @@
         <foaf:openid rdf:resource="https://valmort17.github.io/Valmort17/" />
         <foaf:img rdf:resource="/images/me.jpg" />
         <foaf:mbox rdf:resource="mailto:valentin.ricardo@etudiant.univ-lr.fr" />
+        <foaf:knows>
+            <foaf:Person>
+                <foaf:name>Madeline Celeste</foaf:name>
+                <foaf:age>19</foaf:age>
+                <foaf:homepage rdf:resource="https://celeste.ink/wiki/Main_Page" />
+            </foaf:Person>
+            <foaf:Person>
+                <foaf:name>Strawberry Sunlight</foaf:name>
+                <foaf:homepage rdf:resource="strawberry_sunlight.html" />
+            </foaf:Person>
+        </foaf:knows>
     </foaf:Person>
 </rdf:RDF>
