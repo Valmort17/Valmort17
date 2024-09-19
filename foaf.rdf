@@ -7,7 +7,7 @@
     <foaf:Person rdf:about="#vricardo" xmlns:foaf="http://xmlns.com/foaf/0.1/">
         <foaf:name>Valentin RICARDO</foaf:name>
         <foaf:homepage rdf:resource="https://valmort17.github.io/Valmort17/" />
-        <foaf:openid rdf:resource="https://valmort17.github.io/Valmort17/" />
+        <foaf:openid rdf:resource="https://orcid.org/my-orcid?orcid=0009-0007-5076-6708" />
         <foaf:img rdf:resource="/images/me.jpg" />
         <foaf:mbox rdf:resource="mailto:valentin.ricardo@etudiant.univ-lr.fr" />
         <foaf:knows>
