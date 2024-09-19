@@ -16,6 +16,8 @@
                 <foaf:age>19</foaf:age>
                 <foaf:homepage rdf:resource="https://celeste.ink/wiki/Main_Page" />
             </foaf:Person>
+        </foaf:knows>
+        <foaf:knows>
             <foaf:Person>
                 <foaf:name>Strawberry Sunlight</foaf:name>
                 <foaf:homepage rdf:resource="strawberry_sunlight.html" />
